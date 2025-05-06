@@ -1,1 +1,2 @@
 # DD2424-project
+This is a group course project on implementing RNN and LSTM for text generator. The network is based on pytorch and tensorflow structure. Certain extension on training method (GRU) with different datasets and searching for best parameter is implemented, following with relevant evaluation method. The quantitative metrics used were spelling percentage, term token ratio, perplexity, BLEU score, and BERTScore.
