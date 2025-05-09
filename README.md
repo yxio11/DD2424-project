@@ -11,17 +11,17 @@ This is a group course project on implementing RNN and LSTM for text generator. 
 ### Baseline RNN
 - Build the network
 - Identify the effect when changing the hidden layer
-- See the output from the network
+- See the output from the network, do the temperature scaling
 
 ### One and two layer LSTM
 - Build the network
 - Identify the effect when changing the hidden layer
-- See the output from the network
+- See the output from the network, do the temperature scaling
 
 ### GRU
 - Build the network
 - Identify the effect when changing the hidden layer
-- See the output from the network
+- See the output from the network, do the temperature scaling
 
 ## Evaluation
 ### Perplexity
@@ -32,5 +32,13 @@ This is a group course project on implementing RNN and LSTM for text generator. 
 
 ### Evaluation in three models, compare with each other following with the output
 
-## Parameter adjusting
-### Grid search 
+
+# Milestone and hard DDL
+May 20 final submussion
+### May 16th get all the output ready and write the report
+### RNN and LSTM, evaluation method ready on May 13th
+### Investigate extension from May 13th to 16th
+
+
+
+
