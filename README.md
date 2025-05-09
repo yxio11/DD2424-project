@@ -1,31 +1,38 @@
 # DD2424-project
 This is a group course project on implementing RNN and LSTM for text generator. The network is based on pytorch and tensorflow structure. Certain tasks on training method (GRU) with different datasets, implementing nucleus sampling method and searching for best parameter is implemented, following with relevant evaluation method. The quantitative metrics used were spelling percentage, perplexity, BLEU score. 
+# Milestone and hard DDL, May 20 final submussion
+### May 16th get all the output ready and write the report
+### RNN and LSTM, evaluation method ready on May 13th
+### Investigate extension from May 13th to 16th
 
 # Main Sections
-## Data processing
+## Data processing - David, Mingyang
 ### Nucleus sampling
 
 ### Text synthesize function
 
-### Different dataset prepared for extension, can start after May 13th
+## Parameter search - Qianyu
+### Random and grid parameter search
+
 
 ## Model built and text synthesize
-### Baseline RNN (May 13th)
+### Baseline RNN (May 13th) Work together
 - Build the network
 - Identify the effect when changing the hidden layer
 - See the output from the network, do the temperature scaling
 
-### One and two layer LSTM (May 13th)
+### One and two layer LSTM (May 13th) -David, Yuhui
 - Build the network
 - Identify the effect when changing the hidden layer
 - See the output from the network, do the temperature scaling
 
-### GRU (May 16th)
+### GRU (May 16th) -Qianyu, Mingyang
 - Build the network
 - Identify the effect when changing the hidden layer
 - See the output from the network, do the temperature scaling
+- Layer normalization
 
-## Evaluation (Code ready on May 13th)
+## Evaluation (Code ready on May 13th) - Yuhui
 ### Perplexity
 
 ### Self BLEU
@@ -35,10 +42,8 @@ This is a group course project on implementing RNN and LSTM for text generator. 
 ### Evaluation in three models, compare with each other following with the output
 
 
-# Milestone and hard DDL, May 20 final submussion
-### May 16th get all the output ready and write the report
-### RNN and LSTM, evaluation method ready on May 13th
-### Investigate extension from May 13th to 16th
+
+
 
 
 
