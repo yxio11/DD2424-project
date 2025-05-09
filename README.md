@@ -7,6 +7,8 @@ This is a group course project on implementing RNN and LSTM for text generator. 
 
 ### Text synthesize function
 
+### Different dataset prepared for extension, can start after May 13th
+
 ## Model built and text synthesize
 ### Baseline RNN (May 13th)
 - Build the network
